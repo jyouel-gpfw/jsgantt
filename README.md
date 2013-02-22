@@ -3,7 +3,7 @@ JSGANTT
 
 This is a fork of a fork of the jsGantt project :)
 
-LICENSE:
+# LICENSE:
 * Copyright (c) 2008, Shlomy Gantz/BlueBrick Inc.
 * All rights reserved.
 *
@@ -29,11 +29,11 @@ LICENSE:
 * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Original Developers:
+## Original Developers:
 * Shlomy Gantz
 * Brian Twidt
 
-Original Contributors:
+## Original Contributors:
 * Paul Labuschagne
 * Kevin Badgett
 * Ilan Admon
